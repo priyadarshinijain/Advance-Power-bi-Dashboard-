@@ -94,3 +94,5 @@ The analysis uses *Power BI* to visualize trends in sales, categories, and store
 - *Top-selling Products and Declining Categories*
 
 Data visualizations include bar charts, line graphs, and pie charts for easy interpretation.
+
+![Coffee shop sales Feb month](https://github.com/user-attachments/assets/e6a9eb9b-778a-43b0-a5a0-629bfcd24560)
